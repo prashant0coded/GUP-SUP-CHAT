@@ -40,7 +40,7 @@ The project focuses on understanding real-world full-stack application flow, aut
 ### Steps
 1. Clone the repository  
    ```bash
-   git clone https://github.com/nishantrajput1/gup-shup-chat-app.git
+   git clone https://github.com/prashant0coded/GUP-SUP-CHAT.git
 2. Backend setup
 
     cd server
@@ -52,6 +52,7 @@ The project focuses on understanding real-world full-stack application flow, aut
     cd client
     npm install
     npm start
+
 
 
 4. Configure environment variables in server/.env
